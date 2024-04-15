@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>🐍 Python OOP Course 🐍</strong>
+  <strong>🐍 Python OOP SoftUni Course 🐍</strong>
 </div>
 
 ---
